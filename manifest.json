@@ -1,0 +1,11 @@
+{
+  "name": "Visionary Spark",
+  "short_name": "VisionarySpark",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Visionary Spark — Inspiring digital innovation.",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "48x48 32x32 16x16", "type": "image/x-icon" }
+  ]
+}
